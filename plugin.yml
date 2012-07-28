@@ -1,0 +1,8 @@
+name: MobSupaRemoval
+main: me.javoris767.mobsuparemoval.MSR
+version: 1.5.1
+author: javoris767
+description: Stops mobs from naturally spawning
+commands:
+    msr:
+        description: MSR commands

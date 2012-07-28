@@ -1,0 +1,27 @@
+# Thanks for choosing MobSupaRemoval! Simply just add true or false to the settings.
+MobSupaRemoval Settings:
+  NormalWorld:
+    Chicken Allowed: true
+    Cow Allowed: true
+    MooshroomCow Allowed: true
+    Pig Allowed: true
+    Sheep Allowed: true
+    Squid Allowed: true
+    Villager Allowed: true
+    Endermen Allowed: true
+    Wolf Allowed: true
+    SnowGolem Allowed: true
+    IronGolem Allowed: true
+    CaveSpider Allowed: true
+    Creeper Allowed: true
+    Ocelot Allowed: true
+    Skeleton Allowed: true
+    Slime Allowed: true
+    Spider Allowed: true
+    Zombie Allowed: true
+  NetherWorld:
+    PigZombie_Nether Allowed: true
+    Blaze_Nether Allowed: true
+    Ghast_Nether Allowed: true
+  TheEndWorld:
+    Endermen_The_End Allowed: true
